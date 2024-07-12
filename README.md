@@ -55,12 +55,19 @@ Technologies: ELK Stack, Docker, Kubernetes
 Repository: ELK Stack Project
 
 # 📝 Blog & Tutorials
-I regularly write blog posts and tutorials on various DevOps topics, including containerization, CI/CD, and cloud infrastructure. Check out my latest articles on Medium and hashnode.
+I regularly write blog posts and tutorials on various DevOps topics, including containerization, CI/CD, and cloud infrastructure. Check out my latest articles on:-
+
+📝 Medium: (https://medium.com/@wathrahul9)
+
+🔗 Hashnode: (https://blog.devops-online.shop/)
 
 # 🌐 Let's Connect
 
 LinkedIn: www.linkedin.com/in/rahulwath
+
 Twitter: 
+
 Email: wathrahul9@gmail.com
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build and automate the future together!
 
