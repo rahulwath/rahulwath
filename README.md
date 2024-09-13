@@ -28,7 +28,7 @@ I regularly write blog posts and tutorials on various DevOps topics, including c
 
 📝 Medium: (https://medium.com/@wathrahul9)
 
-🔗 Hashnode: (https://blog.devops-online.shop/)
+🔗 Hashnode: (https://blog.aws-devops.blog/)
 
 # 🌐 Let's Connect
 
